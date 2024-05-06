@@ -1,0 +1,20 @@
+﻿  Game.cpp
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\bloque.h(32,27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "../Src/Game.cpp")
+  
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\bloque.h(32,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "../Src/Game.cpp")
+  
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\Game.cpp(73,52): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\Game.cpp(73,52): warning C4244:         with
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\Game.cpp(73,52): warning C4244:         [
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\Game.cpp(73,52): warning C4244:             T=float
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\Game.cpp(73,52): warning C4244:         ]
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\Game.cpp(78,53): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\Game.cpp(78,53): warning C4244:         with
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\Game.cpp(78,53): warning C4244:         [
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\Game.cpp(78,53): warning C4244:             T=float
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\Game.cpp(78,53): warning C4244:         ]
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\Game.cpp(170,20): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Src\Game.cpp(170,17): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Box2dEmptyApp.vcxproj -> D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\U2 Ej6 Pilar Marco\Box2dFirstApp\Bin\Debug\Box2dEmptyApp.exe
